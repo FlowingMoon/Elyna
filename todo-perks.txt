@@ -58,6 +58,12 @@ Disparo Zen Soma RM ao acerto                   Arquearia
 Recuo Ritmico só recua(+dist) e recupera 2 PR   Atletismo e ArtesPerformaticas
 Ataque Focado   --INI +AC                       Investigação e ArmaBrancas/Desarmado/Arquearia/ArmadeFogo
 Ataque Concentrado --INI -RE ++DN               ArmaBrancas
+Rushdown X – When you go from [ranged] to [melee] during an attack, add 2+X to your attack roll.                        Desarmado/ArmaBrancas 4>6>8>10*
+Disengage X – When you go from [melee] to ranged during na attack, add 2+X to your defense roll                        Arquearia/Armas de Fogo 4>6>8>10*
+Grapple – If the enemy attempted to move from [melee] to [ranged], on a hit, stop him from moving.                        Desarmado 6
+
+
+
 
 Em geral: Ocultismo destranca habs sobrenaturais, e Magia é Magia.
 
@@ -70,7 +76,7 @@ Manipulação Material                            SIN, Magia
         Ice bullshits
 
 Manipulação Energética                          SIN, Magia
-    Invocar Chamas
+    Invocar Chamas                                ESS+
         Habs de fogo mais fortes
     Faíscas Elétricas
         Habs eletricas mais fortes
